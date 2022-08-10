@@ -108,4 +108,4 @@ Console.WriteLine(Nomes[NMrnd]);
 Console.WriteLine(SobreN[SNMrnd]);
 Console.WriteLine(Adj[ADJrnd]);
 Console.WriteLine(Coisas[COIrnd]);
-Console.WriteLine(senha);Random rnd = new Random();
+Console.WriteLine(senha);
